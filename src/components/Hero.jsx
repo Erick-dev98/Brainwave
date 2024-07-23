@@ -36,7 +36,7 @@ const Hero = () => {
                     <p className='body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8'>
                         Unleash the power of AI within Brainwave. Upgrade your productivity with Brainwave, the open AI chat app.
                     </p>
-                    <Button href="/pricing" white>
+                    <Button href="/#pricing" white>
                         Get Started
                     </Button>
                 </div>
